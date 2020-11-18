@@ -36,3 +36,5 @@ public class CustomPayload implements Serializable {
 </b>
 
 #### Custom Serializer on the ObjectMapper
+
+#### Custom Serializer with @JsonComponent 
